@@ -1,2 +1,2 @@
-puppet
-puppetserver
+puppet.conf
+puppetserver/
